@@ -4,7 +4,7 @@ resources:
     configuration:
       path: itssiri/pipelines_run_1
       branches:
-        include: ^tests-failing$
+        include: ^affinityGroup$
       gitProvider: siriGH
 
   - name: matrix_property_bag_in
