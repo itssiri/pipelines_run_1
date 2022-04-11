@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# hi ssiri
 
 CUSTOMER=$1
 RABBITMQ_ADMIN_USER=$2
